@@ -7,7 +7,7 @@ A VPC provides a logically isolated network partition on GCP and offers several 
 2. Subnets: Divide the VPC network into subnets for better organization and control.
 3. Routing: Manage internal and external IP traffic flow with custom routes.
 4. Firewall Rules: Define security rules to allow or deny traffic to/from VM instances.
-5. Private Connectivity: Secure communication within and outside GCP via VPN or dedicated interconnects.
+5. Private Connectivity:  Secure communication within and outside GCP via VPN or dedicated interconnects.
 ## Key Components of a VPC in GCP with Terraform
 
 1. VPC Network: The primary container for subnets, routes, firewall rules, etc.
