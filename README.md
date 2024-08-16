@@ -1,4 +1,3 @@
-
 ## Virtual Private Cloud (VPC) network on Google Cloud Platform (GCP)
 
 A VPC provides a logically isolated network partition on GCP and offers several features including:
